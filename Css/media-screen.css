@@ -1,0 +1,40 @@
+@media (min-width: 1200px) and (max-width: 1285.60px) {
+    .container .container-content h1{
+        font-size: 47px;
+    }
+    .img-header{
+        width: 99%;
+        height: 99%;
+    }
+    .ComapniesLogo{
+        width: 545px;
+        margin-top: 85px;
+    }
+    .container-form .Ellipse39{
+        display: none;
+    }
+    .group-whatisgpt3{
+        margin-left: 30px;
+    }
+    .container-form h6{
+        left: 280px;
+        font-size: 14px;
+        width: 600px;
+    }
+    .container-form .group-boxes{
+        font-size: 0px;
+    }
+    .container-form .group-boxes h6{
+        left: 29px;
+        width: 240px;
+    }
+    .feature-boxes h6{
+        min-width: 325px;
+    }
+    .blog-group{
+        width: 90%;
+    } 
+    .blog-group .blog-group1 h5{
+        font-size: 19px;
+    }
+}
